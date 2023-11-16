@@ -1,0 +1,2 @@
+insert into to_do(name, description, target_date, done) values('Dharma', 'Learning Java',  CURDATE(), true);
+insert into secure_capita.to_do(name, description, target_date, done) value('Test3', 'Test Desc3', CURDATE(), true);
